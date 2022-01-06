@@ -3,7 +3,7 @@ on:
   push:
 
 jobs:
-# Build job. Builds app for Android with Buildozer
+# Build job. Builds app for Android with Buildozer n1
   build-android:
     name: Build for Android
     runs-on: ubuntu-latest

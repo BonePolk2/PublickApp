@@ -29,4 +29,4 @@ install:
   - ls -la
   - ls bin/ -l
   - gem install dpl --pre
-  - dpl releases --token $Token --file "bin/mobileapp001-0.3-armeabi-v7a-debug.apk" --tag_name "v.0.1"
+  - dpl releases --token $Token --file "bin/mobileapp001-0.1-armeabi-v7a-debug.apk" --tag_name "v.0.1"
